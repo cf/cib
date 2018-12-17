@@ -170,9 +170,9 @@ repos = [
     ('repos/wabt', 'WebAssembly/wabt.git', 'WebAssembly/wabt.git', False, 'master', 'master'),
     ('repos/binaryen', 'tbfleming/cib-binaryen.git', 'WebAssembly/binaryen.git', True, 'master', 'cib'),
     ('repos/zip.js', 'gildas-lormeau/zip.js.git', 'gildas-lormeau/zip.js.git', False, '3e7920810f63d5057ef6028833243105521da369', '3e7920810f63d5057ef6028833243105521da369'),
-    ('repos/eos', 'tbfleming/cib-eos.git', 'EOSIO/eos.git', True, 'dawn-v3.0.0', 'cib'),
-    ('repos/eos-musl', 'tbfleming/cib-eos-musl.git', 'EOSIO/eos-musl.git', True, 'eosio', 'cib'),
-    ('repos/eos-libcxx', 'EOSIO/libcxx.git', 'EOSIO/libcxx.git', False, '2880ac42909d4bb29687ed079f8bb4405c3b0869', '2880ac42909d4bb29687ed079f8bb4405c3b0869'),
+    ('repos/eos', 'cf/eos.git', 'EOSIO/eos.git', True, 'master', 'master'),
+    ('repos/eos-musl', 'cf/cib-eos-musl.git', 'EOSIO/eos-musl.git', True, 'eosio', 'eosio'),
+    ('repos/eos-libcxx', 'EOSIO/libcxx.git', 'EOSIO/libcxx.git', False, '1047157480b4d9b83bbfb460285dc9f7ed237dd8', '1047157480b4d9b83bbfb460285dc9f7ed237dd8'),
     ('repos/magic-get', 'apolukhin/magic_get.git', 'apolukhin/magic_get.git', False, '8b575abe4359abd72bb9556f64ee33aa2a6f3583', '8b575abe4359abd72bb9556f64ee33aa2a6f3583'),
     ('repos/eos-altjs', 'tbfleming/eos-altjs', 'tbfleming/eos-altjs', True, 'master', 'cib'),
 ]
